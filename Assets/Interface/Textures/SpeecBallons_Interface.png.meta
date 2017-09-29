@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 86c6ef53fc4c69c4894c6e3e3ccf8112
+timeCreated: 1504210636
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpeecBallons_Interface_0
+    21300002: SpeecBallons_Interface_1
+    21300004: SpeecBallons_Interface_2
+    21300006: SpeecBallons_Interface_3
+    21300008: SpeecBallons_Interface_4
+    21300010: SpeecBallons_Interface_5
+    21300012: SpeecBallons_Interface_6
+    21300014: SpeecBallons_Interface_7
+    21300016: SpeecBallons_Interface_8
+    21300018: SpeecBallons_Interface_9
+    21300020: SpeecBallons_Interface_10
+    21300022: SpeecBallons_Interface_11
+    21300024: SpeecBallons_Interface_12
+    21300026: SpeecBallons_Interface_13
+    21300028: SpeecBallons_Interface_14
+    21300030: SpeecBallons_Interface_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 946
+        width: 333
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1160
+        width: 363
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 909
+        width: 497
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_3
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1194
+        width: 615
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_4
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1101
+        width: 268
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 657
+        width: 458
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_6
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 667
+        width: 347
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_7
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 824
+        width: 474
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_8
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 646
+        width: 315
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 47
+        width: 451
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 299
+        width: 372
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_11
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 309
+        width: 252
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_12
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 395
+        width: 400
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_13
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 330
+        width: 230
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_14
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 25
+        width: 615
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeecBallons_Interface_15
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 9
+        width: 374
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

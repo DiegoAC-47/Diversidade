@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogTree xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dialogs>
+    <Dialog>
+      <Description>01</Description>
+      <Speeches>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Olha o mercadinho ambulante! Verduras, legumes e tudo que você quiser!</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim/>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Ei! Você tem isso aqui?</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Pressing Button</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Oh, se tenho! Tudo orgânico só para você. Nosso lema é “Um cliente satisfeito, sempre volta com mais dinheiro!” Hahaha.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Lets Do This</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+  </Dialogs>
+</DialogTree>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogTree xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dialogs>
+    <Dialog>
+      <Description>01</Description>
+      <Speeches>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Ei, Douglas, venha aqui!</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Call To Follow</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Olha Douglas, mais uma criança vai se juntar a nós. Não é divertido?</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Showing Place</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+  </Dialogs>
+</DialogTree>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogTree xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dialogs>
+    <Dialog>
+      <Description>01</Description>
+      <Speeches>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Hehehe, parece que alguém andou fazendo exercícios, não é mesmo?!</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Laughing</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Isso é ótimo! Quando chegar na minha idade, vai desejar ter feito muito mais.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Lets Do This</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Hã… Oi? Quem é você?</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Thinking</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Hohoho! Você está muito apressada criança, não se preocupe os cachorros não chegaram mais aqui.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Apaziguate</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Nessa cidade não é comum que as pessoas falem para qualquer um quem são. Na verdade, você tem que conquistar a confiança delas antes.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim />
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Ok então, como eu faço isso?</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Crossing Arms</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Hohoho, parece que estamos nos entendendo, não é mesmo? Olhe bem para esse lugar. Tão bonito, mas tão sujo... Muito mal aproveitado.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Laughing</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Por que você não me ajuda a resolver isso. Pegue algumas dessas latinhas por aí. Assim, ainda consigo uma boa grana pro jantar.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Lets Do This</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Mas você não percebe que não há mais nada aqui além de nós? Quer que eu pegue latinhas na árvore?</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Thinking</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Você que não está entendendo as coisas direito, criança. Eu falei para você olhar bem para esse lugar.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim />
+          <AnimIsTrigger>true</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+    <Dialog>
+      <Description>02</Description>
+      <Speeches>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Eu acho que ainda faltam algumas latas por aí...</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim/>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+    <Dialog>
+      <Description>03</Description>
+      <Speeches>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Pronto, coletei todas as latinhas. Agora, quem é você? E por que me fez coletar tudo isso?</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Crossing Arms</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Hohoho, coletou, não é mesmo? Eu sou Merlin, mas você já sabia disso.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Laughing</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+    <Dialog>
+      <Description>04</Description>
+      <Speeches>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Esse dialogo não devia existir</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim />
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Eu sei...</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim />
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+  </Dialogs>
+</DialogTree>

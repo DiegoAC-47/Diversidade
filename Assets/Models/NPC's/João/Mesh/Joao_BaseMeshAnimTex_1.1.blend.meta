@@ -1,0 +1,3866 @@
+fileFormatVersion: 2
+guid: a1065df3875da1e49ac2823cb3a070b8
+timeCreated: 1505965451
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arms
+    100002: Chest
+    100004: Chest_0
+    100006: Chest_001
+    100008: CollarBone_L
+    100010: CollarBone_R
+    100012: EyebrownControl_L
+    100014: EyebrownControl_R
+    100016: EyebrownL_L
+    100018: EyebrownL_R
+    100020: EyebrownM_L
+    100022: EyebrownM_R
+    100024: EyebrownR_L
+    100026: EyebrownR_R
+    100028: Face_001
+    100030: Face_002
+    100032: Fingers02_L
+    100034: Fingers02_R
+    100036: Fingers_L
+    100038: Fingers_R
+    100040: Foot_L
+    100042: Foot_R
+    100044: Hand_L
+    100046: Hand_R
+    100048: Hands
+    100050: Head
+    100052: Head_0
+    100054: //RootNode
+    100056: JoaoArmature
+    100058: Leg_Control_L
+    100060: Leg_Control_R
+    100062: Lower_Arm_L
+    100064: Lower_Arm_R
+    100066: Lower_Leg_L
+    100068: Lower_Leg_R
+    100070: Neck
+    100072: Pants
+    100074: Shoes
+    100076: Thumb02_L
+    100078: Thumb02_R
+    100080: Thumb_L
+    100082: Thumb_R
+    100084: Toes_Control_L
+    100086: Toes_Control_R
+    100088: Toes_L
+    100090: Toes_R
+    100092: Torso
+    100094: Upper_Arm_L
+    100096: Upper_Arm_R
+    100098: Upper_Leg_L
+    100100: Upper_Leg_R
+    400000: Arms
+    400002: Chest
+    400004: Chest_0
+    400006: Chest_001
+    400008: CollarBone_L
+    400010: CollarBone_R
+    400012: EyebrownControl_L
+    400014: EyebrownControl_R
+    400016: EyebrownL_L
+    400018: EyebrownL_R
+    400020: EyebrownM_L
+    400022: EyebrownM_R
+    400024: EyebrownR_L
+    400026: EyebrownR_R
+    400028: Face_001
+    400030: Face_002
+    400032: Fingers02_L
+    400034: Fingers02_R
+    400036: Fingers_L
+    400038: Fingers_R
+    400040: Foot_L
+    400042: Foot_R
+    400044: Hand_L
+    400046: Hand_R
+    400048: Hands
+    400050: Head
+    400052: Head_0
+    400054: //RootNode
+    400056: JoaoArmature
+    400058: Leg_Control_L
+    400060: Leg_Control_R
+    400062: Lower_Arm_L
+    400064: Lower_Arm_R
+    400066: Lower_Leg_L
+    400068: Lower_Leg_R
+    400070: Neck
+    400072: Pants
+    400074: Shoes
+    400076: Thumb02_L
+    400078: Thumb02_R
+    400080: Thumb_L
+    400082: Thumb_R
+    400084: Toes_Control_L
+    400086: Toes_Control_R
+    400088: Toes_L
+    400090: Toes_R
+    400092: Torso
+    400094: Upper_Arm_L
+    400096: Upper_Arm_R
+    400098: Upper_Leg_L
+    400100: Upper_Leg_R
+    4300000: Chest_001
+    4300002: Face_002
+    4300004: Face_001
+    4300006: Hands
+    4300008: Head
+    4300010: Chest
+    4300012: Pants
+    4300014: Shoes
+    4300016: Arms
+    7400000: Default Take
+    7400002: Angry02_Eyebrows
+    7400004: Angry_Eyebrows
+    7400006: Blinking_Eyebrows
+    7400008: Crazy_Eyebrows
+    7400010: Dive
+    7400012: HandRainbow
+    7400014: Happy_Eyebrows
+    7400016: Idle_Waiting
+    7400018: Indiferent_Eyebrows
+    7400020: InLove_Eyebrows
+    7400022: Jump
+    7400024: Laugh_Eyebrows
+    7400026: Make_Wish
+    7400028: MotivationalSpeech
+    7400030: Normal_Eyebrows
+    7400032: Pick_Up_Items
+    7400034: Run
+    7400036: Sad_Eyebrows
+    7400038: Scared_Eyebrows
+    7400040: Screaming
+    7400042: Surprised_Eyebrows
+    7400044: Suspicious02_Eyebrows
+    7400046: Suspicious_Eyebrows
+    7400048: Thinking
+    7400050: Thoughtful1_Eyebrows
+    7400052: Thoughtful2_Eyebrows
+    7400054: Walk
+    9500000: //RootNode
+    13700000: Arms
+    13700002: Chest
+    13700004: Chest_001
+    13700006: Face_001
+    13700008: Face_002
+    13700010: Hands
+    13700012: Head
+    13700014: Pants
+    13700016: Shoes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Angry02_Eyebrows
+      takeName: Angry02_Eyebrows
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Angry_Eyebrows
+      takeName: Angry_Eyebrows
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Blinking_Eyebrows
+      takeName: Blinking_Eyebrows
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crazy_Eyebrows
+      takeName: Crazy_Eyebrows
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dive
+      takeName: Dive
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HandRainbow
+      takeName: HandRainbow
+      firstFrame: -1
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Happy_Eyebrows
+      takeName: Happy_Eyebrows
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Waiting
+      takeName: Idle_Waiting
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Indiferent_Eyebrows
+      takeName: Indiferent_Eyebrows
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: InLove_Eyebrows
+      takeName: InLove_Eyebrows
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Jump
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Laugh_Eyebrows
+      takeName: Laugh_Eyebrows
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Make_Wish
+      takeName: Make_Wish
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MotivationalSpeech
+      takeName: MotivationalSpeech
+      firstFrame: -1
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Normal_Eyebrows
+      takeName: Normal_Eyebrows
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pick_Up_Items
+      takeName: Pick_Up_Items
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: -1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sad_Eyebrows
+      takeName: Sad_Eyebrows
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Scared_Eyebrows
+      takeName: Scared_Eyebrows
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Screaming
+      takeName: Screaming
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Surprised_Eyebrows
+      takeName: Surprised_Eyebrows
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Suspicious02_Eyebrows
+      takeName: Suspicious02_Eyebrows
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Suspicious_Eyebrows
+      takeName: Suspicious_Eyebrows
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Thinking
+      takeName: Thinking
+      firstFrame: 0
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Thoughtful1_Eyebrows
+      takeName: Thoughtful1_Eyebrows
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Thoughtful2_Eyebrows
+      takeName: Thoughtful2_Eyebrows
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: -1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest_001
+        weight: 1
+      - path: Face_001
+        weight: 1
+      - path: Face_002
+        weight: 1
+      - path: Hands
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: JoaoArmature
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Foot_L/Toes_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_L/Toes_Control_L
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Foot_R/Toes_R
+        weight: 1
+      - path: JoaoArmature/Leg_Control_R/Toes_Control_R
+        weight: 1
+      - path: JoaoArmature/Torso
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+        weight: 1
+      - path: JoaoArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R
+        weight: 1
+      - path: JoaoArmature/Torso/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

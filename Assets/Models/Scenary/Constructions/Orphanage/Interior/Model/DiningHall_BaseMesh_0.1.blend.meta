@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 4b5b1e10e5122a24fb8263ddb4ea1689
+timeCreated: 1500319806
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DiningHall_Floor
+    100004: DiningHallWall_A
+    100006: DiningHallWall_B
+    100008: DiningHallWall_C
+    100010: DiningHallWall_D
+    100012: Stair
+    100014: DiningHall_Floor_001
+    100016: FoodRoom
+    100018: Stair_001
+    400000: //RootNode
+    400002: DiningHall_Floor
+    400004: DiningHallWall_A
+    400006: DiningHallWall_B
+    400008: DiningHallWall_C
+    400010: DiningHallWall_D
+    400012: Stair
+    400014: DiningHall_Floor_001
+    400016: FoodRoom
+    400018: Stair_001
+    2300000: DiningHall_Floor
+    2300002: DiningHallWall_A
+    2300004: DiningHallWall_B
+    2300006: DiningHallWall_C
+    2300008: DiningHallWall_D
+    2300010: Stair
+    2300012: DiningHall_Floor_001
+    2300014: FoodRoom
+    2300016: Stair_001
+    3300000: DiningHall_Floor
+    3300002: DiningHallWall_A
+    3300004: DiningHallWall_B
+    3300006: DiningHallWall_C
+    3300008: DiningHallWall_D
+    3300010: Stair
+    3300012: DiningHall_Floor_001
+    3300014: FoodRoom
+    3300016: Stair_001
+    4300000: DiningHallWall_B
+    4300002: DiningHall_Floor
+    4300004: DiningHallWall_C
+    4300006: DiningHallWall_D
+    4300008: DiningHallWall_A
+    4300010: Stair
+    4300012: DiningHall_Floor_001
+    4300014: Stair_001
+    4300016: FoodRoom
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

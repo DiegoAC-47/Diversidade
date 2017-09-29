@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 71a3c27a4c9172d448015054d6e8fb5e
+timeCreated: 1505877933
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arms
+    100002: ChairBackWheel
+    100004: ChairBase
+    100006: ChairWheelBase
+    100008: Chest
+    100010: Chest_0
+    100012: CollarBone_L
+    100014: CollarBone_R
+    100016: EyebrownControl_L
+    100018: EyebrownControl_R
+    100020: EyebrownL_L
+    100022: EyebrownL_R_001
+    100024: EyebrownM_L
+    100026: EyebrownM_R
+    100028: EyebrownR_L
+    100030: EyebrownR_R
+    100032: Face
+    100034: Fingers02_L
+    100036: Fingers02_R
+    100038: Fingers_L
+    100040: Fingers_R
+    100042: Foot_L
+    100044: Foot_R
+    100046: Hand_L
+    100048: Hand_R
+    100050: Hands
+    100052: Head
+    100054: Head_0
+    100056: Head_001
+    100058: Leg_Control_L
+    100060: Leg_Control_R
+    100062: Lower_Arm_L
+    100064: Lower_Arm_R
+    100066: Lower_Leg_L
+    100068: Lower_Leg_R
+    100070: Neck
+    100072: Pants
+    100074: //RootNode
+    100076: PedroArmature
+    100078: Shoes
+    100080: Thumb02_L
+    100082: Thumb02_R
+    100084: Thumb_L
+    100086: Thumb_R
+    100088: Toes_Control_L
+    100090: Toes_Control_R
+    100092: Toes_L
+    100094: Toes_R
+    100096: Torso
+    100098: Upper_Arm_L
+    100100: Upper_Arm_R
+    100102: Upper_Leg_L
+    100104: Upper_Leg_R
+    100106: Wheel
+    100108: WheelMini
+    100110: WheelMini_0
+    400000: Arms
+    400002: ChairBackWheel
+    400004: ChairBase
+    400006: ChairWheelBase
+    400008: Chest
+    400010: Chest_0
+    400012: CollarBone_L
+    400014: CollarBone_R
+    400016: EyebrownControl_L
+    400018: EyebrownControl_R
+    400020: EyebrownL_L
+    400022: EyebrownL_R_001
+    400024: EyebrownM_L
+    400026: EyebrownM_R
+    400028: EyebrownR_L
+    400030: EyebrownR_R
+    400032: Face
+    400034: Fingers02_L
+    400036: Fingers02_R
+    400038: Fingers_L
+    400040: Fingers_R
+    400042: Foot_L
+    400044: Foot_R
+    400046: Hand_L
+    400048: Hand_R
+    400050: Hands
+    400052: Head
+    400054: Head_0
+    400056: Head_001
+    400058: Leg_Control_L
+    400060: Leg_Control_R
+    400062: Lower_Arm_L
+    400064: Lower_Arm_R
+    400066: Lower_Leg_L
+    400068: Lower_Leg_R
+    400070: Neck
+    400072: Pants
+    400074: //RootNode
+    400076: PedroArmature
+    400078: Shoes
+    400080: Thumb02_L
+    400082: Thumb02_R
+    400084: Thumb_L
+    400086: Thumb_R
+    400088: Toes_Control_L
+    400090: Toes_Control_R
+    400092: Toes_L
+    400094: Toes_R
+    400096: Torso
+    400098: Upper_Arm_L
+    400100: Upper_Arm_R
+    400102: Upper_Leg_L
+    400104: Upper_Leg_R
+    400106: Wheel
+    400108: WheelMini
+    400110: WheelMini_0
+    4300000: WheelMini
+    4300002: ChairBackWheel
+    4300004: ChairBase
+    4300006: Head_001
+    4300008: Hands
+    4300010: Head
+    4300012: Chest
+    4300014: Pants
+    4300016: Shoes
+    4300018: Arms
+    4300020: Face
+    7400000: Default Take
+    7400002: Apaziguate
+    7400004: Dive
+    7400006: Idle_Waiting
+    7400008: Jump
+    7400010: LookingLost
+    7400012: Pick_Up_Items
+    7400014: Run
+    7400016: Screaming
+    7400018: SittingIdle
+    7400020: SittingLost
+    7400022: Thinking
+    7400024: Walk
+    7400026: WalkingChair
+    9500000: //RootNode
+    13700000: Arms
+    13700002: ChairBackWheel
+    13700004: ChairBase
+    13700006: Chest
+    13700008: Face
+    13700010: Hands
+    13700012: Head
+    13700014: Head_001
+    13700016: Pants
+    13700018: Shoes
+    13700020: WheelMini
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

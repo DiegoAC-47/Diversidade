@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogTree xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dialogs>
+    <Dialog>
+      <Description>01</Description>
+      <Speeches>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Ei, por que você não está jogando também?</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Thinking</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Ah, oi. É que não me deixam jogar.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim/>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Ué, por quê? Isso aqui não é de todo mundo? Vamos lá, vamos jogar! Me segue.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Inviting To Play</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+    <Dialog>
+      <Description>02</Description>
+      <Speeches>
+       <Speech>
+          <Actor>NPC</Actor>
+          <Text>Eu não deveria existir</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim/>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+    <Dialog>
+      <Description>03</Description>
+      <Speeches>
+       <Speech>
+          <Actor>NPC</Actor>
+          <Text>Ganhamos!! Parabéns! Muito obrigada!</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Jump Victory</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+           <Actor>PLAYER</Actor>
+           <Text>Hahaha, eu não fiz quase nada, a vitória foi totalmente sua.</Text>
+           <AnimLayer>0</AnimLayer>
+           <Anim>Apaziguate</Anim>
+           <AnimIsTrigger>false</AnimIsTrigger>
+           <FacialExpressionLayer>0</FacialExpressionLayer>
+           <FacialExpression />
+           <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+         </Speech>
+         <Speech>
+            <Actor>NPC</Actor>
+            <Text>Foi mesmo. Prazer, meu nome é Emily</Text>
+            <AnimLayer>0</AnimLayer>
+            <Anim>Handshake</Anim>
+            <AnimIsTrigger>false</AnimIsTrigger>
+            <FacialExpressionLayer>0</FacialExpressionLayer>
+            <FacialExpression />
+            <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+          </Speech>
+          <Speech>
+             <Actor>PLAYER</Actor>
+             <Text>Obrigado por confiar em mim. A gente se vê.</Text>
+             <AnimLayer>0</AnimLayer>
+             <Anim>Handshake</Anim>
+             <AnimIsTrigger>false</AnimIsTrigger>
+             <FacialExpressionLayer>0</FacialExpressionLayer>
+             <FacialExpression />
+             <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+           </Speech>
+      </Speeches>
+    </Dialog>
+  </Dialogs>
+</DialogTree>

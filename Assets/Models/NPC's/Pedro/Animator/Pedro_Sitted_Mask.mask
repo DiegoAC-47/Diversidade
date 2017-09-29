@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Pedro_Sitted_Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Arms
+    m_Weight: 0
+  - m_Path: ChairBackWheel
+    m_Weight: 0
+  - m_Path: ChairBase
+    m_Weight: 0
+  - m_Path: Chest
+    m_Weight: 0
+  - m_Path: Face
+    m_Weight: 0
+  - m_Path: Hands
+    m_Weight: 0
+  - m_Path: Head
+    m_Weight: 0
+  - m_Path: Head_001
+    m_Weight: 0
+  - m_Path: Pants
+    m_Weight: 0
+  - m_Path: PedroArmature
+    m_Weight: 0
+  - m_Path: PedroArmature/ChairWheelBase
+    m_Weight: 0
+  - m_Path: PedroArmature/Leg_Control_L
+    m_Weight: 1
+  - m_Path: PedroArmature/Leg_Control_L/Foot_L
+    m_Weight: 1
+  - m_Path: PedroArmature/Leg_Control_L/Foot_L/Toes_L
+    m_Weight: 1
+  - m_Path: PedroArmature/Leg_Control_L/Toes_Control_L
+    m_Weight: 1
+  - m_Path: PedroArmature/Leg_Control_R
+    m_Weight: 1
+  - m_Path: PedroArmature/Leg_Control_R/Foot_R
+    m_Weight: 1
+  - m_Path: PedroArmature/Leg_Control_R/Foot_R/Toes_R
+    m_Weight: 1
+  - m_Path: PedroArmature/Leg_Control_R/Toes_Control_R
+    m_Weight: 1
+  - m_Path: PedroArmature/Torso
+    m_Weight: 1
+  - m_Path: PedroArmature/Torso/Chest_0
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Fingers_L/Fingers02_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_L/Thumb02_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_R
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Fingers_R/Fingers02_R
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/CollarBone_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_R/Thumb02_R
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/Neck
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/Neck/Head_0
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownL_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownM_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_L/EyebrownR_L
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownL_R_001
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownM_R
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Chest_0/Neck/Head_0/EyebrownControl_R/EyebrownR_R
+    m_Weight: 0
+  - m_Path: PedroArmature/Torso/Upper_Leg_L
+    m_Weight: 1
+  - m_Path: PedroArmature/Torso/Upper_Leg_L/Lower_Leg_L
+    m_Weight: 1
+  - m_Path: PedroArmature/Torso/Upper_Leg_R
+    m_Weight: 1
+  - m_Path: PedroArmature/Torso/Upper_Leg_R/Lower_Leg_R
+    m_Weight: 1
+  - m_Path: PedroArmature/Wheel
+    m_Weight: 0
+  - m_Path: PedroArmature/WheelMini_0
+    m_Weight: 0
+  - m_Path: Shoes
+    m_Weight: 0
+  - m_Path: WheelMini
+    m_Weight: 0

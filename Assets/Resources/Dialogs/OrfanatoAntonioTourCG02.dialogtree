@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogTree xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dialogs>
+    <Dialog>
+      <Description>01</Description>
+      <Speeches>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Merlin! Que bom que voltou com a tão esperada companhia.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim />
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Olá! Digo, bom dia, senhor. </Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Continence</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Hahaha isso não é necessário. Venha, vou mostrar para vocês todo o orfanato.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Call To Follow</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+  </Dialogs>
+</DialogTree>

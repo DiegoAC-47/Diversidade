@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 425a9ef88cb1a0d4c91afeedb069292d
+timeCreated: 1504746040
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WalkingLoad_0
+    21300002: WalkingLoad_1
+    21300004: WalkingLoad_2
+    21300006: WalkingLoad_3
+    21300008: WalkingLoad_4
+    21300010: WalkingLoad_5
+    21300012: WalkingLoad_6
+    21300014: WalkingLoad_7
+    21300016: WalkingLoad_8
+    21300018: WalkingLoad_9
+    21300020: WalkingLoad_10
+    21300022: WalkingLoad_11
+    21300024: WalkingLoad_12
+    21300026: WalkingLoad_13
+    21300028: WalkingLoad_14
+    21300030: WalkingLoad_15
+    21300032: WalkingLoad_16
+    21300034: WalkingLoad_17
+    21300036: WalkingLoad_18
+    21300038: WalkingLoad_19
+    21300040: WalkingLoad_20
+    21300042: WalkingLoad_21
+    21300044: WalkingLoad_22
+    21300046: WalkingLoad_23
+    21300048: WalkingLoad_24
+    21300050: WalkingLoad_25
+    21300052: WalkingLoad_26
+    21300054: WalkingLoad_27
+    21300056: WalkingLoad_28
+    21300058: WalkingLoad_29
+    21300060: WalkingLoad_30
+    21300062: WalkingLoad_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkingLoad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 258
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 559
+        width: 252
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 558
+        width: 240
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 559
+        width: 228
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_4
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 559
+        width: 218
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_5
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 559
+        width: 207
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 559
+        width: 205
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_7
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 559
+        width: 229
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_8
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 559
+        width: 246
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_9
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 559
+        width: 261
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_10
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 557
+        width: 270
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_11
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 559
+        width: 274
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_12
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 559
+        width: 274
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_13
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 559
+        width: 267
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_14
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 559
+        width: 261
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_15
+      rect:
+        serializedVersion: 2
+        x: 4024
+        y: 559
+        width: 258
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 256
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 16
+        width: 251
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 16
+        width: 240
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 16
+        width: 228
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_20
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 16
+        width: 218
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_21
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 16
+        width: 205
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 16
+        width: 197
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_23
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 16
+        width: 225
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_24
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 16
+        width: 244
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_25
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 16
+        width: 259
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_26
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 16
+        width: 270
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_27
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 16
+        width: 276
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_28
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 16
+        width: 278
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_29
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 16
+        width: 272
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_30
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 16
+        width: 263
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WalkingLoad_31
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 16
+        width: 260
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

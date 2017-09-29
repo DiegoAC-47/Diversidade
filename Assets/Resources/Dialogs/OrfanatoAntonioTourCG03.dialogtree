@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogTree xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dialogs>
+    <Dialog>
+      <Description>01</Description>
+      <Speeches>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Merlin, por que eu posso vê-lo colorido, se eu não fiz nada para ele? Ele é Drag?</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Whispering</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Hohoho, não criança. Ele pode ser quem realmente é, sem precisar tornar cinza qualquer coisa.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Laughing</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Hum, acho que estou começando a entender como isso funciona então.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Thinking</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+  </Dialogs>
+</DialogTree>

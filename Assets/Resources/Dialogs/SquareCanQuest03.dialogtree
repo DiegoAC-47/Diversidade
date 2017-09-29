@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DialogTree xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dialogs>
+    <Dialog>
+      <Description>01</Description>
+      <Speeches>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Isso é… lindo!</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim />
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+		<Speech>
+          <Actor>NPC</Actor>
+          <Text>Sim, criança. As coisas são muito mais belas quando você as conhece de verdade. Mas nem sempre essas diferenças são aceitas, e é por isso que você está aqui.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim />
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+		<Speech>
+          <Actor>NPC</Actor>
+          <Text>Vamos, vou te ajudar a achar um lugar fora da rua.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Follow Me</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+  </Dialogs>
+</DialogTree>

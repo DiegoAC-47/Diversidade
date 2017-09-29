@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: 2e9d5b6b55af1c5459817afb9e7c4bb6
+timeCreated: 1504904412
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PostSign_0
+    21300002: PostSign_1
+    21300004: PostSign_2
+    21300006: PostSign_3
+    21300008: PostSign_4
+    21300010: PostSign_5
+    21300012: PostSign_6
+    21300014: PostSign_7
+    21300016: PostSign_8
+    21300018: PostSign_9
+    21300020: PostSign_10
+    21300022: PostSign_11
+    21300024: PostSign_12
+    21300026: PostSign_13
+    21300028: PostSign_14
+    21300030: PostSign_15
+    21300032: PostSign_16
+    21300034: PostSign_17
+    21300036: PostSign_18
+    21300038: PostSign_19
+    21300040: PostSign_20
+    21300042: PostSign_21
+    21300044: PostSign_22
+    21300046: PostSign_23
+    21300048: PostSign_24
+    21300050: PostSign_25
+    21300052: PostSign_26
+    21300054: PostSign_27
+    21300056: PostSign_28
+    21300058: PostSign_29
+    21300060: PostSign_30
+    21300062: PostSign_31
+    21300064: PostSign_32
+    21300066: PostSign_33
+    21300068: PostSign_34
+    21300070: PostSign_35
+    21300072: PostSign_36
+    21300074: PostSign_37
+    21300076: PostSign_38
+    21300078: PostSign_39
+    21300080: PostSign_40
+    21300082: PostSign_41
+    21300084: PostSign_42
+    21300086: PostSign_43
+    21300088: PostSign_44
+    21300090: PostSign_45
+    21300092: PostSign_46
+    21300094: PostSign_47
+    21300096: PostSign_48
+    21300098: PostSign_49
+    21300100: PostSign_50
+    21300102: PostSign_51
+    21300104: PostSign_52
+    21300106: PostSign_53
+    21300108: PostSign_54
+    21300110: PostSign_55
+    21300112: PostSign_56
+    21300114: PostSign_57
+    21300116: PostSign_58
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PostSign_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1605
+        width: 231
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1598
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1605
+        width: 231
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_3
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1598
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_4
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 763
+        width: 162
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_5
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 763
+        width: 162
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_6
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 763
+        width: 161
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1486
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1483
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_9
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1486
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_10
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1483
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1367
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1364
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1367
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_14
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1364
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1248
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1245
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_17
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1248
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_18
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1245
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1129
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1126
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1129
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_22
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1126
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1010
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_24
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1007
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_25
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1010
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_26
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1007
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 891
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_28
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 888
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_29
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 891
+        width: 231
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_30
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 888
+        width: 236
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 714
+        width: 231
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_32
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 707
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_33
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 714
+        width: 231
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_34
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 707
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 595
+        width: 231
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_36
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 592
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_37
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 595
+        width: 231
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_38
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 592
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 477
+        width: 231
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_40
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 474
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_41
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 477
+        width: 231
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_42
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 474
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 231
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 355
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_45
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 358
+        width: 231
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_46
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 355
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 231
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_48
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 237
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_49
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 240
+        width: 231
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_50
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 237
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 121
+        width: 231
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_52
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 118
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_53
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 121
+        width: 231
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_54
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 118
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 231
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_56
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_57
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3
+        width: 231
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostSign_58
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 236
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

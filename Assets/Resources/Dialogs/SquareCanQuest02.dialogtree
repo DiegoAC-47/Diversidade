@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogTree xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dialogs>
+    <Dialog>
+      <Description>01</Description>
+      <Speeches>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Ma-mas, como assim?! O que aconteceu?</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Scare Jump</Anim>
+          <AnimIsTrigger>true</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Como eu disse, você só precisa enxergar melhor as coisas. Nem tudo é o que parece, ou pelo menos, o que permite ser visto.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim />
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Por exemplo, veja se a praça não ficou realmente muito mais bonita.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim />
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+  </Dialogs>
+</DialogTree>

@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 6b5cba7c2edf6224083fa76e1bf61428
+timeCreated: 1496775453
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arbusto_1
+    100002: Arbusto_2
+    100004: Arbusto_3
+    100006: Arvore_1
+    100008: Arvore_2
+    100010: Arvore_3
+    100012: Arvore_Grande
+    100014: Balde
+    100016: Banco
+    100018: Caixa_de_Areia
+    100020: Ch_o
+    100022: Lata_de_Lixo
+    100024: //RootNode
+    100026: Muro_C
+    100028: Muro_L
+    100030: Muro_L_001
+    100032: Pedra_1
+    100034: Pedra_2
+    100036: Pedra_3
+    100038: Pedra_4
+    100040: Pedra_5
+    100042: Pilar
+    100044: Pilar_001
+    100046: Pilar_002
+    100048: Pilar_003
+    100050: Pilar_004
+    100052: Pilar_005
+    100054: Plano
+    100056: Poste
+    400000: Arbusto_1
+    400002: Arbusto_2
+    400004: Arbusto_3
+    400006: Arvore_1
+    400008: Arvore_2
+    400010: Arvore_3
+    400012: Arvore_Grande
+    400014: Balde
+    400016: Banco
+    400018: Caixa_de_Areia
+    400020: Ch_o
+    400022: Lata_de_Lixo
+    400024: //RootNode
+    400026: Muro_C
+    400028: Muro_L
+    400030: Muro_L_001
+    400032: Pedra_1
+    400034: Pedra_2
+    400036: Pedra_3
+    400038: Pedra_4
+    400040: Pedra_5
+    400042: Pilar
+    400044: Pilar_001
+    400046: Pilar_002
+    400048: Pilar_003
+    400050: Pilar_004
+    400052: Pilar_005
+    400054: Plano
+    400056: Poste
+    2300000: Arbusto_1
+    2300002: Arbusto_2
+    2300004: Arbusto_3
+    2300006: Arvore_1
+    2300008: Arvore_2
+    2300010: Arvore_3
+    2300012: Arvore_Grande
+    2300014: Balde
+    2300016: Banco
+    2300018: Caixa_de_Areia
+    2300020: Ch_o
+    2300022: Lata_de_Lixo
+    2300024: Muro_C
+    2300026: Muro_L
+    2300028: Muro_L_001
+    2300030: Pedra_1
+    2300032: Pedra_2
+    2300034: Pedra_3
+    2300036: Pedra_4
+    2300038: Pedra_5
+    2300040: Pilar
+    2300042: Pilar_001
+    2300044: Pilar_002
+    2300046: Pilar_003
+    2300048: Pilar_004
+    2300050: Pilar_005
+    2300052: Plano
+    2300054: Poste
+    3300000: Arbusto_1
+    3300002: Arbusto_2
+    3300004: Arbusto_3
+    3300006: Arvore_1
+    3300008: Arvore_2
+    3300010: Arvore_3
+    3300012: Arvore_Grande
+    3300014: Balde
+    3300016: Banco
+    3300018: Caixa_de_Areia
+    3300020: Ch_o
+    3300022: Lata_de_Lixo
+    3300024: Muro_C
+    3300026: Muro_L
+    3300028: Muro_L_001
+    3300030: Pedra_1
+    3300032: Pedra_2
+    3300034: Pedra_3
+    3300036: Pedra_4
+    3300038: Pedra_5
+    3300040: Pilar
+    3300042: Pilar_001
+    3300044: Pilar_002
+    3300046: Pilar_003
+    3300048: Pilar_004
+    3300050: Pilar_005
+    3300052: Plano
+    3300054: Poste
+    4300000: Muro_C
+    4300002: Muro_L
+    4300004: Pilar_004
+    4300006: Pilar_003
+    4300008: Pilar_002
+    4300010: Pilar_001
+    4300012: Pilar
+    4300014: Balde
+    4300016: Ch_o
+    4300018: Caixa_de_Areia
+    4300020: Plano
+    4300022: Banco
+    4300024: Poste
+    4300026: Pedra_1
+    4300028: Pedra_2
+    4300030: Pedra_3
+    4300032: Pedra_4
+    4300034: Pedra_5
+    4300036: Arvore_Grande
+    4300038: Lata_de_Lixo
+    4300040: Pilar_005
+    4300042: Arbusto_1
+    4300044: Arbusto_2
+    4300046: Arbusto_3
+    4300048: Arvore_1
+    4300050: Arvore_2
+    4300052: Arvore_3
+    4300054: Muro_L_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

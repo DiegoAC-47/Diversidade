@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogTree xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dialogs>
+    <Dialog>
+      <Description>01</Description>
+      <Speeches>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Ou! Por que tá entrando no nosso campo?</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Crossing Arms</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Seu campo? Pensei que era de todo mundo. Onde tá escrito teu nome aqui?</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Showing Place</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>NPC</Actor>
+          <Text>Não preciso escrever meu nome, todo mundo sabe quem manda aqui. Sabe quem sou eu? Então rala daqui.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Never Again</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+        <Speech>
+          <Actor>PLAYER</Actor>
+          <Text>Manda, né? Então vamos jogar uma partida. Quem perder sai e nunca mais implica com os outros.</Text>
+          <AnimLayer>0</AnimLayer>
+          <Anim>Crossing Arms</Anim>
+          <AnimIsTrigger>false</AnimIsTrigger>
+          <FacialExpressionLayer>0</FacialExpressionLayer>
+          <FacialExpression />
+          <FacilExpressionIsTrigger>false</FacilExpressionIsTrigger>
+        </Speech>
+      </Speeches>
+    </Dialog>
+  </Dialogs>
+</DialogTree>
